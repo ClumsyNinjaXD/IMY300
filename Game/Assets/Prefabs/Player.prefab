@@ -375,6 +375,8 @@ MonoBehaviour:
   facingRight: 1
   isSwinging: 0
   hasHooked: 0
+  firstHit: 0
+  projectTest: 0
   isSet: 0
   grappleTime: 0
   line: {fileID: 0}
@@ -383,6 +385,7 @@ MonoBehaviour:
     m_Bits: 0
   attackDamage: 10
   enemyHealth: {fileID: 0}
+  barrelroll: {fileID: 0}
 --- !u!212 &212815286194108544
 SpriteRenderer:
   m_ObjectHideFlags: 1
